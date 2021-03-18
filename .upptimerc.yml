@@ -16,9 +16,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-#   cname: demo.upptime.js.org
+  #   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime-abt
   logoUrl: http://allbigdat.com/theme/basic/img/logo.png
   name: allbigdat Upptime
   introTitle: "**allbigdat** is awesome."
